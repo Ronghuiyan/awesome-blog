@@ -13,3 +13,7 @@ Reasons:
 ## Other thoughts
 
 This is great.
+
+how to add link.
+[text](https://software-carpentry.org/)
+![alt text](https://en.m.wikipedia.org/wiki/Dog#/media/File%3ACollage_of_Nine_Dogs.jpg)
